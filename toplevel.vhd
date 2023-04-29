@@ -48,3 +48,5 @@ architecture slicing_with_rst of shift_reg_1_width is
   -- remote connection?
 
   -- remote control 2?
+
+  -- final remote attempt
