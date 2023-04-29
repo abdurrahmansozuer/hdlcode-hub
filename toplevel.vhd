@@ -44,3 +44,5 @@ architecture slicing_with_rst of shift_reg_1_width is
   --   end process;
    
   -- end architecture for_loop;
+
+  -- remote connection?
